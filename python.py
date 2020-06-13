@@ -31,4 +31,6 @@ print(name)
 
 a = b = c = 1
 
-a,b,c = 1,2,"Mimi"
+a,b,c = 1,2,"Mira"
+print(a + b)
+print(c)
